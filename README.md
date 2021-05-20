@@ -1,0 +1,1 @@
+# Visualizacion-de-variables-con-sensor-de-temperatura
